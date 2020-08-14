@@ -2,7 +2,7 @@
 
 ## I'm a undergraduate at SLIIT !
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+<!--- 🔭 I’m currently working on a--> 
 - 🌱 I’m currently learning Android app development 
 - 👯 I’m looking to be a full stack develooper
 - 🥅 2020 Goals: Work hard to my career
