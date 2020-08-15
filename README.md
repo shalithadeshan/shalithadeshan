@@ -10,6 +10,8 @@
 - 🥅 2020 Goals: Work hard to my career
 - ⚡ Fun fact: I love to listing to music and learn more and more anything...!
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/xUPGcy1SP080IEoMkE/giphy.gif" />
+
 ### Connect with me:
 
 [<img align="left" alt="shalithadeshan.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -17,7 +19,7 @@
 [<img align="left" alt="Shalitha Jayasekara | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="shalitha_deshan_98 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/xUPGcy1SP080IEoMkE/giphy.gif" />
+
 
 <br />
 
