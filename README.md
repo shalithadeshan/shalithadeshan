@@ -36,6 +36,11 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]-->
 
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalithadeshan&theme=radical&hide_langs_below=1&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shalithadeshan&show_icons=true&theme=radical&line_height=21" alt="Ohidur's github stats"/>
+</p>
+
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fsultan-alrefaei-programmer-office-gif-13165216&psig=AOvVaw1VlkekKIAyk4P_KiJPX-51&ust=1597576911501000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLi5sfmLnesCFQAAAAAdAAAAABAD" width="60">
 <br />
 <br />
