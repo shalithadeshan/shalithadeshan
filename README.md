@@ -41,7 +41,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shalithadeshan&show_icons=true&theme=radical&line_height=21" alt="Ohidur's github stats"/>
 </p>
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fsultan-alrefaei-programmer-office-gif-13165216&psig=AOvVaw1VlkekKIAyk4P_KiJPX-51&ust=1597576911501000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLi5sfmLnesCFQAAAAAdAAAAABAD" width="60">
+*PS: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
+
+
 <br />
 <br />
 
