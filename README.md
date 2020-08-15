@@ -1,5 +1,7 @@
 ### Hi there, I'm Shalitha -  👋
 
+![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
+
 ## I'm a undergraduate at SLIIT !
 
 <!--- 🔭 I’m currently working on a--> 
@@ -36,11 +38,13 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]-->
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/xUPGcy1SP080IEoMkE/giphy.gif" />
+
 <br />
 
-<p align="center">
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalithadeshan&theme=radical&hide_langs_below=1&layout=compact" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shalithadeshan&show_icons=true&theme=radical&line_height=21" alt="Ohidur's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shalithadeshan&show_icons=true&theme=radical&line_height=21" alt="Shalitha's github stats"/>
 </p>
 
 *PS: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
@@ -48,7 +52,7 @@
 
 <br />
 
-<img alt="Programmer GIF" height="250px" src="https://tenor.com/view/sultan-alrefaei-programmer-office-gif-13165216">
+
 
 
 
