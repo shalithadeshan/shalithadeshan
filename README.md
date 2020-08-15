@@ -36,6 +36,8 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]-->
 
+<br />
+
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalithadeshan&theme=radical&hide_langs_below=1&layout=compact" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shalithadeshan&show_icons=true&theme=radical&line_height=21" alt="Ohidur's github stats"/>
@@ -45,6 +47,9 @@
 
 
 <br />
+
+<img alt="Random Memes" height="250px" src="https://www.ohidur.com/memes/random.jpg?_n=4">
+
 <br />
 
 
