@@ -48,9 +48,9 @@
 
 <br />
 
-<img alt="Random Memes" height="250px" src="https://www.ohidur.com/memes/random.jpg?_n=4">
+<img alt="Programmer GIF" height="250px" src="https://tenor.com/view/sultan-alrefaei-programmer-office-gif-13165216">
 
-<br />
+
 
 
 [website]: https://shalithadeshan.github.io/
