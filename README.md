@@ -12,6 +12,8 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/xUPGcy1SP080IEoMkE/giphy.gif" />
 
+<br />
+
 ### Connect with me:
 
 [<img align="left" alt="shalithadeshan.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
