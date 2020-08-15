@@ -46,7 +46,7 @@
 
 <br />
 
-<p>
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalithadeshan&theme=radical&hide_langs_below=1&layout=compact" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shalithadeshan&show_icons=true&theme=radical&line_height=21" alt="Shalitha's github stats"/>
 </p>
