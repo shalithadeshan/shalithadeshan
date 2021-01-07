@@ -7,7 +7,7 @@
 <!--- 🔭 I’m currently working on a--> 
 - 🌱 I’m currently learning Android app development 
 - 👯 I’m looking to be a full stack develooper
-- 🥅 2020 Goals: Work hard to my career
+- 🥅 2021 Goals: Work hard to my career
 - ⚡ Fun fact: I love to listing to music and learn more and more anything...!
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/xUPGcy1SP080IEoMkE/giphy.gif" />
@@ -43,6 +43,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/angular/angular.png" />
+<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/flutter/flutter.png" />
 <!--[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]-->
 
 
