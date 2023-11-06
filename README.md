@@ -7,9 +7,9 @@
 <!--- 🔭 I’m currently working on a-->
 
 - 🌱 I’m currently learning NextJS & NestJS development
-- 👯 I’m looking to be a full stack developer
-- 🥅 2022 Goals: Work hard to my career
-- ⚡ Fun fact: I love to listing to music and learn more and more anything...!
+- 👯 I’m looking to be a full-stack developer
+- 🥅 2023 Goals: Work hard to my career
+- ⚡ Fun fact: I love to listen to music and learn more and more about anything...!
 
 <br />
   <p align="center">
