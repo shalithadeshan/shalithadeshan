@@ -119,7 +119,7 @@ const shalitha = {
 ### 💬 Let's build something together
 
 <a href="https://www.linkedin.com/in/shalitha-jayasekara-194215180/">LinkedIn</a> ·
-<a href="https://shalithadeshan.github.io/">Portfolio</a> ·
+<a href="https://shalithadeshan.github.io/portfolio-V3/">Portfolio</a> ·
 <a href="mailto:shalithad8520jayasekara@gmail.com">Email</a> ·
 <a href="https://www.instagram.com/shalitha_deshan_98/?hl=en">Instagram</a>
 
