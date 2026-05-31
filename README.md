@@ -1,89 +1,118 @@
-### Hi there, I'm Shalitha - 👋
+<div align="center">
 
-![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
+<a href="https://shalithadeshan.github.io/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Shalitha+Jayasekara;Full+Stack+Software+Engineer;Angular+%E2%80%A2+.NET+%E2%80%A2+React+%E2%80%A2+Next.js;I+turn+ideas+into+shipped+products" alt="Typing SVG" />
+</a>
 
-<!-- ## I'm a undergraduate at SLIIT ! -->
-
-<!--- 🔭 I’m currently working on a-->
-
-- 🌱 I’m currently learning NextJS & NestJS development
-- 👯 I’m looking to be a full-stack developer
-- 🥅 2023 Goals: Work hard to my career
-- ⚡ Fun fact: I love to listen to music and learn more and more about anything...!
-
-<br />
-  <p align="center">
-  <img  alt="GIF" src="https://media.giphy.com/media/xUPGcy1SP080IEoMkE/giphy.gif" />
-  </p>
-
-<br />
-
-### Connect with me:🌐
-
-[<img align="left" alt="shalithadeshan.github.io" width="20px" color="white" src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-world-user-interface-wanicon-lineal-color-wanicon.png" style="margin-right: 10px;" />][website]
-[<img align="left" alt="ShalithaDeshan | Twitter" width="22px" color="white"  src="https://img.icons8.com/color/48/000000/twitter--v1.png" style="margin-right: 10px;" />][twitter]
-[<img align="left" alt="Shalitha Jayasekara | LinkedIn" width="22px" color="white" src="https://img.icons8.com/color/48/000000/linkedin.png" style="margin-right: 10px;" />][linkedin]
-[<img align="left" alt="shalitha_deshan_98 | Instagram" width="22px" color="white" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
-
-<br>
-
-<br>
-<br>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalithadeshan&theme=radical&hide_langs_below=1&layout=compact" />
-  <br>
-<br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shalithadeshan&show_icons=true&theme=radical&line_height=21" alt="Shalitha's github stats"/>
+<p>
+  <a href="https://shalithadeshan.github.io/"><img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/shalitha-jayasekara-194215180/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/ShalithaDeshsn"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="mailto:shalithad8520jayasekara@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=shalithadeshan&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
-_PS: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
+</div>
 
-<br>
+---
 
-### Languages and Tools:
+### 👨‍💻 About Me
 
-- Using
+```ts
+const shalitha = {
+  role: "Full Stack Software Engineer",
+  location: "Gampaha, Sri Lanka 🇱🇰",
+  experience: "4+ years shipping production software",
+  education: "BSc (Hons) in IT — SLIIT, 2022",
+  focus: ["Clean Architecture", "Performance", "Developer Experience"],
+  currentlyLearning: ["Next.js App Router", "NestJS"],
+  funFact: "I love music and learning something new every single day 🎧",
+};
+```
 
-<img align="left" alt="HTML5" style="margin-right: 10px;" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" style="margin-right: 10px;" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Angular" style="margin-right: 10px;" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/angular/angular.png" />
-<img align="left" alt="JavaScript" style="margin-right: 10px;" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<br>
-<br>
+- 🏢 Building full-stack products — from Angular/.NET enterprise systems to React Native apps
+- ⚡ Boosted performance across **8+ applications** and shipped real-time, automation-heavy platforms
+- 🌱 Currently deepening my **Next.js** and **NestJS** expertise
+- 🤝 Open to collaborating on creative, impactful projects
 
-- Learning
+---
 
-<img align="left" alt="Flutter" style="margin-right: 10px;" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/flutter/flutter.png" />
-<img align="left" alt="Flutter" style="margin-right: 10px;" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+### 🛠️ Tech Stack
 
-<br>
-<br>
+**Languages**
 
-- Tools
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<img align="left" alt="Git" style="margin-right: 10px;" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" style="margin-right: 10px;" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+**Frontend**
 
-[website]: https://shalithadeshan.github.io/
-[twitter]: https://twitter.com/ShalithaDeshsn
-[instagram]: https://www.instagram.com/shalitha_deshan_98/?hl=en
-[linkedin]: https://www.linkedin.com/in/shalitha-jayasekara-194215180/
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=flat-square&logo=reduxsaga&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-<!--[youtube]:
-[webdevplaylist]:
-[jsplaylist]:
-[cssplaylist]:
-[reactplaylist]:-->
+**Backend**
 
-<!--
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]-->
-<!-- <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /> -->
-<!--[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]-->
-<!--[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]-->
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+
+**Databases**
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shalithadeshan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalithadeshan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&langs_count=8" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shalithadeshan&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=shalithadeshan&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies" />
+
+</div>
+
+> 💡 _Top languages reflect what I've pushed to GitHub — not the full picture of where I spend my time (Angular & .NET enterprise work lives in private repos)._
+
+---
+
+<div align="center">
+
+### 💬 Let's build something together
+
+<a href="https://www.linkedin.com/in/shalitha-jayasekara-194215180/">LinkedIn</a> ·
+<a href="https://shalithadeshan.github.io/">Portfolio</a> ·
+<a href="mailto:shalithad8520jayasekara@gmail.com">Email</a> ·
+<a href="https://www.instagram.com/shalitha_deshan_98/?hl=en">Instagram</a>
+
+<sub>⭐️ From <a href="https://github.com/shalithadeshan">Shalitha Jayasekara</a></sub>
+
+</div>
