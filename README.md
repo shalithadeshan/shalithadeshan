@@ -94,13 +94,23 @@ const shalitha = {
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=shalithadeshan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7" alt="GitHub Stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalithadeshan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&langs_count=8" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shalithadeshan&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=shalithadeshan&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=shalithadeshan&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shalithadeshan&theme=react-dark&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&hide_border=true&area=true" alt="Activity Graph" width="95%" />
 
 </div>
 
 > 💡 _Top languages reflect what I've pushed to GitHub — not the full picture of where I spend my time (Angular & .NET enterprise work lives in private repos)._
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/shalithadeshan/shalithadeshan/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="95%" />
+
+</div>
 
 ---
 
